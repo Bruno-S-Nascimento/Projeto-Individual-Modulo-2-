@@ -1,0 +1,27 @@
+body {
+    background: gray;
+}
+
+header {
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: orange;
+    text-align: center;
+    border-radius: 5px;
+    border: 5px solid black
+
+}
+
+main {
+    width: 550px;
+    height: 450px;
+    margin: 430px;
+    margin-top: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: orange;
+    border: 5px solid black;
+    border-radius: 5px;
+
+}
+
